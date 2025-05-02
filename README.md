@@ -77,7 +77,7 @@ If you are new to Flutter, here are more detailed steps for you. You may also wa
   - You can open the `/repository root/ios/Runner.xcworkspace` project in Xcode and execute and debug from there.
   - Note: You need to have valid _development certificates_ available to sign the app for device deployment.
 
-Note: You can alternatively also pass the credentails during build by: 
+Note: You can alternatively also pass the credentials during build by: 
 `flutter build apk --dart-define=HERESDK_ACCESS_KEY_ID=<YOUR_ACCESS_KEY_ID> --dart-define=HERESDK_ACCESS_KEY_SECRET=<YOUR_ACCESS_KEY_SECRET>`
 
 ## Contributing
